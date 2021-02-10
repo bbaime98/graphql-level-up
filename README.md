@@ -1,2 +1,2 @@
 # graphql-level-up
-API with GraphQL Apollo server and Sequelize
+Build API with GraphQL Apollo server and Sequelize
